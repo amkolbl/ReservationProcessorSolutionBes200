@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nQSeT69Wr6r+N8JCIR0H1t014zEml6RNsi51beuFuldRouKWrNGyT8MgHk3CJAmLPnE7PAbE5V6pOipGi9zbPQ==",
+  "dgSpecHash": "+zdLUFSz5c242k0BfrXB9NOmaEd7f5cMxuQijiwKOHcb0lwaFWqS+TEKkFD7RK+uEIKCb/0KxKh84IO5sfR6Uw==",
   "success": true,
   "projectFilePath": "C:\\dev\\ReservationProcessorSolution\\ReservationProcessor\\ReservationProcessor.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\5.0.0\\microsoft.extensions.options.configurationextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\ITUStudent\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ITUStudent\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
